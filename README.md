@@ -1,5 +1,4 @@
-# emotion_detection_movie_pred
-# emotion-detection-movie-recomendation
+
 # Emotion Detection Using Deep Learning
 
 This project focuses on classifying emotions using a Convolutional Neural Network (CNN) built with TensorFlow/Keras. The dataset consists of labeled images organized into training and testing directories. The project leverages GPU acceleration for efficient computations and includes a robust methodology for data preprocessing, model training, evaluation, and deployment.
